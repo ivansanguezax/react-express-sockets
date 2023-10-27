@@ -25,9 +25,11 @@ This application uses React and Socket.io to create a real-time chat experience.
 - ![Vite](https://img.shields.io/badge/Vite-%230646F0.svg?style=flat&logo=vite&logoColor=white)
 - ![Socket.io](https://img.shields.io/badge/Socket.io-%23000000.svg?style=flat&logo=socket.io&logoColor=white)
 - ![Express](https://img.shields.io/badge/Express-%23000000.svg?style=flat&logo=express&logoColor=white)
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%231a202c.svg?style=flat&logo=tailwind-css&logoColor=white)
 - ![cors](https://img.shields.io/badge/cors-%23E34F26.svg?style=flat&logo=cors&logoColor=white)
 - ![Morgan](https://img.shields.io/badge/Morgan-%23000000.svg?style=flat)
 - ![Nodemon](https://img.shields.io/badge/Nodemon-%23000000.svg?style=flat)
+
 
 
 
